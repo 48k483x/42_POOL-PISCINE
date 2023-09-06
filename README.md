@@ -15,10 +15,10 @@
 #                                                         :::      ::::::::    #
 #                                                       :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: Kaizen <kaizen@smtp.com                    +#+  +:+       +#+         #
+#    By: Swordy <swordy@1337.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 1945/08/06 00:00:00 by Kaizen            #+#    #+#              #
-#    Updated: 1945/08/09 00:00:00 by Kaizen           ###   ########.fr        #
+#    Created: 1945/08/06 00:00:00 by Swordy            #+#    #+#              #
+#    Updated: 1945/08/09 00:00:00 by Swordy           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -169,8 +169,7 @@ The blackhole is a system that motivates students to stay active and not get laz
 
 ## Author
 
-- [`@KAIZEN`]() | Software Engineer Student
-
+- [`@SWORDY`]()
     > Contact me & Any questions.
 
     <a href="https://twitter.com/Fcking_Infamous">

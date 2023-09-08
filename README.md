@@ -1,4 +1,4 @@
-# 1337 Pool at 42 - Piscine
+<center><h1>1337 Pool at 42 - Piscine</h1></center>
 
 <p align="center">
     <img src="your-logo.png" width="200">
@@ -12,7 +12,7 @@ Welcome to the immersive and transformative 1337 Pool experience at Campus 42! �
 
 The 1337 Pool is a challenging and rewarding program designed to cultivate your coding skills and mindset. It's an intense journey filled with coding exercises, collaborative projects, and tests. Your dedication and hard work will be your keys to success! 🏊‍♂️
 
-![Pool Image](pool-image.jpg)
+![Pool Image](https://i.ytimg.com/vi/h-vTRXdPBmY/maxresdefault.jpg)
 
 ---
 
@@ -59,17 +59,9 @@ In this section, poolers share their experiences and tips for success. 📝
 
 ---
 
-## 📞 Contact Us
-
-If you have any questions or need assistance, feel free to reach out to us:
-
-- Email: pool@1337.ma
-- Twitter: [@1337PoolOfficial](https://twitter.com/1337PoolOfficial)
-
----
 
 <p align="center">
-    Made with ❤️ by the 1337 Pool Team
+    Made with ❤️ SWORDY
 </p>
 
     > Contact me & Any questions.

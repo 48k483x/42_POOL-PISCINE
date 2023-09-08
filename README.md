@@ -1,7 +1,9 @@
-<center><h1>1337 Pool at 42 - Piscine</h1></center>
+<h1 align="center">
+  # 1337 Pool at 42 - Piscine
+</h1>
 
 <p align="center">
-    <img src="your-logo.png" width="200">
+    <img src="https://wallpapers.com/images/hd/aesthetic-anime-boy-icon-satoru-gojo-voofszh99nac77ae.jpg" width="200">
 </p>
 
 Welcome to the immersive and transformative 1337 Pool experience at Campus 42! 🚀

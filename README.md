@@ -67,6 +67,14 @@ In this section, poolers share their experiences and tips for success. 📝
 </p>
 
     > Contact me & Any questions.
-
-    <a href="https://twitter.com/Fcking_Infamous">
-        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?
+              /* ************************************************************************** */
+              /*                                                                            */
+              /*                                                        :::      ::::::::   */
+              /*                                                      :+:      :+:    :+:   */
+              /*                                                    +:+ +:+         +:+     */
+              /*   By: swordy <swordy@42.fr>                    +#+  +:+       +#+          */
+              /*                                                +#+#+#+#+#+   +#+           */
+              /*   Created: 2023/08/15 17:31:10 by Swordy          #+#    #+#               */
+              /*   Updated: 2023/08/16 08:09:44 by Swordy         ###   ########.fr         */
+              /*                                                                            */
+              /* ************************************************************************** */
